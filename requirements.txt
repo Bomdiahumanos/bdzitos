@@ -1,0 +1,4 @@
+streamlit>=1.37
+python-chess>=1.999
+pandas>=2.0
+requests>=2.31
